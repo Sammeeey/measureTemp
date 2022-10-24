@@ -2,6 +2,7 @@
 - execute Python script as cronjob on Ubuntu
 
 **every 30th minute: go to directory, execute `temp.py`& log output of `temp.py` in `temp.log`**:
+
 `*/30 * * * * cd /home/pi/Dokumente/temp && python3 temp.py >> /home/pi/Dokumente/temp/temp.log 2>&1`
 
 ## Resources
