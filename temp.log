@@ -1,0 +1,19 @@
+INFO:root:2022-10-24 14:26:01.942698 - 54.53
+INFO:root:2022-10-24 14:26:13.070577 - 54.53
+INFO:root:2022-10-24 14:26:13.758258 - 55.017
+INFO:root:2022-10-24 14:26:15.095475 - 55.991
+INFO:root:2022-10-24 14:26:27.041339 - 55.017
+/bin/sh: 1: /usr/bin/python: not found
+/bin/sh: 1: /usr/bin/python: not found
+/bin/sh: 1: /usr/bin/python: not found
+/bin/sh: 1: /usr/bin/python: not found
+/bin/sh: 1: /usr/bin/python: not found
+/bin/sh: 1: /usr/bin/python: not found
+INFO:root:2022-10-24 15:28:02.001062 - 54.043
+INFO:root:2022-10-24 15:29:01.163111 - 54.53
+INFO:root:2022-10-24 15:30:01.320967 - 54.043
+INFO:root:2022-10-24 15:31:01.489232 - 54.043
+2022-10-24 15:32:01.648603 54.53
+2022-10-24 15:33:01.805470 -- 55.017 °C
+2022-10-24 15:34:01.961410 -- 55.017°C
+2022-10-24 15:35:02.117901 -- 55.017°C
